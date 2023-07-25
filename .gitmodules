@@ -1,0 +1,4 @@
+[submodule "segmentation_models.pytorch"]
+	path = segmentation_models.pytorch
+	url = https://github.com/arvindmvepa/segmentation_models.pytorch.git
+	branch = dsa_seg
